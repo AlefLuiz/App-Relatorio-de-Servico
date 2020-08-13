@@ -14,7 +14,7 @@
  #### Prints
 
 <p align="center">
-<img src="https://github.com/AlefLuiz/App-Relatorio-de-Servico/blob/master/assets/App_Print[1].png" width="80%" align="middle">,
+<img src="https://github.com/AlefLuiz/App-Relatorio-de-Servico/blob/master/assets/App_Print[1].png" width="80%" align="middle">
 <img src="https://github.com/AlefLuiz/App-Relatorio-de-Servico/blob/master/assets/App_Print[2].png" width="80%" align="middle">
 </p>
 
